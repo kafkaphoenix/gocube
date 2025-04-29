@@ -1,0 +1,2 @@
+# gocube
+cubeworld in golang
